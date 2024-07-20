@@ -2,7 +2,7 @@
 
 The Dictionary App is a web application developed using React.js. It enables users to search for word definitions, synonyms, antonyms, and example sentences. The app offers a user-friendly interface for vocabulary exploration and enrichment, allowing users to enhance their language skills effectively.
 
-![RAHMA-SAID-afk](https://github.com/RAHMA-SAID-afk/Dictionary-app)
+
 
 ## Table of Contents
 - [Features](#features)
