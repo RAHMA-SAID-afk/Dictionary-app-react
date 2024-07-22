@@ -44,6 +44,7 @@ To use the app, simply type a word in the search bar to retrieve its definitions
 
 
 ## Demo
+https://dictionary-app-react-two.vercel.app/
 
 
 ## Credits
